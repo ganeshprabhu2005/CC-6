@@ -67,7 +67,5 @@ Step 2. Setup File Sharing on VirtualBox Guest Machine.
 ![image](https://github.com/user-attachments/assets/3f2c7dc1-5781-43e3-8e36-4e0706d603e0)
 
 5. You 're done! To access the shared folder from the Guest OS, open Windows Explorer and under the 'Network locations' you should see a new network drive that corresponds to the shared folder on the Host OS.
-
 ## Result:
-
 Thus the virtual machine files are moved to another VM
